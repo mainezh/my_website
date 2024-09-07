@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React Sept 7, 2024
+          Learn React Sept 7, 2024, This is a test for AWS Amplify hosting.
         </a>
       </header>
     </div>
